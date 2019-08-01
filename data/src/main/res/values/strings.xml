@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">data</string>
+    <string name="net_error_handler_generic_error">Ha ocurrido un error.</string>
+</resources>
